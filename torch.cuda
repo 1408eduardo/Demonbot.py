@@ -1,0 +1,2 @@
+device1 = torch.device("cuda:0")
+device2 = torch.device("cuda:1")
