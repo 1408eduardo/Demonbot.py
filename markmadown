@@ -1,0 +1,10 @@
+Cryptocurrency:
+  - Name: LyronCoin
+  - Price: $10.00
+  - Network: Decentralized
+  - Market: Listed on Coinbase and Binance
+  - Blockchain: Custom blockchain using Ethereum's ERC-20 token standard
+  - Wallet: Custom wallet developed using React Native
+  - Mining: Proof-of-stake (PoS) consensus algorithm
+  - Smart Contracts: Used for token distribution 
+  - Address Contract: 
