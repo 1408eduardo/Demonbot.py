@@ -1,0 +1,2 @@
+pipeline = torch.distributed.pipeline.sync.Pipeline(model, chunks=2)
+output = pipeline.run(input)
